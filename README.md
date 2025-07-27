@@ -88,5 +88,3 @@ The application follows a feature-based architecture with organized folders for 
 - `/src/hooks` - Custom React hooks
 - `/src/context` - React context providers
 - `/src/utils` - Utility functions
-
-
