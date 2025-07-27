@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+# database and s3 bucket
+supabase.js
 
 # Editor directories and files
 .vscode/*
