@@ -1,0 +1,1 @@
+export const PAGE_SIZE = 5; // Assuming 10 results per page
